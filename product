@@ -1,0 +1,15 @@
+class Solution {
+    public int subtractProductAndSum(int n) {
+        int div=1;
+        int sum=0;
+        int product=1;
+        while(div<=n){
+            int id=n%(div*10)/div;
+            sum=sum+id;
+            product=product*id;
+            div=div*10;
+        }
+        return product-sum;
+        
+    }
+}
