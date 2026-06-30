@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Nithiyasreek/leetcode/tree/master/0657-robot-return-to-origin) |
+## Array
+|  |
+| ------- |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Nithiyasreek/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 <!---LeetCode Topics End-->
