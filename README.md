@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nithiyasreek/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Nithiyasreek/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Nithiyasreek/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithiyasreek/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nithiyasreek/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -42,8 +43,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nithiyasreek/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Nithiyasreek/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nithiyasreek/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Nithiyasreek/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nithiyasreek/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nithiyasreek/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
