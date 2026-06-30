@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Nithiyasreek/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Nithiyasreek/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Nithiyasreek/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Nithiyasreek/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Array
 |  |
 | ------- |
