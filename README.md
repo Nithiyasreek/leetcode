@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nithiyasreek/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Nithiyasreek/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithiyasreek/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Nithiyasreek/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nithiyasreek/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nithiyasreek/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Nithiyasreek/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nithiyasreek/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nithiyasreek/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithiyasreek/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Nithiyasreek/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
