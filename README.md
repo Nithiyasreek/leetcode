@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nithiyasreek/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Nithiyasreek/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0929-unique-email-addresses](https://github.com/Nithiyasreek/leetcode/tree/master/0929-unique-email-addresses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nithiyasreek/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nithiyasreek/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Nithiyasreek/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nithiyasreek/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nithiyasreek/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Nithiyasreek/leetcode/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/Nithiyasreek/leetcode/tree/master/0929-unique-email-addresses) |
 ## Sorting
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nithiyasreek/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nithiyasreek/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nithiyasreek/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
