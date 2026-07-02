@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithiyasreek/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Nithiyasreek/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithiyasreek/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithiyasreek/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nithiyasreek/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nithiyasreek/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Nithiyasreek/leetcode/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/Nithiyasreek/leetcode/tree/master/0929-unique-email-addresses) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithiyasreek/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Nithiyasreek/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithiyasreek/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nithiyasreek/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithiyasreek/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
