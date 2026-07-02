@@ -5,6 +5,7 @@ class Solution {
         int sLength=s.length();
         for(i=0;i<s.length();i++){
              HashMap<Character,Integer> h1=new HashMap<>();
+            
             for(j=i;j<s.length();j++){
                 var it=h1.get(s.charAt(j));
                 if(it!=null){
